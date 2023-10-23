@@ -1,0 +1,2 @@
+E:\application\Anaconda1\envs\pytorch
+E:\application\Anaconda1
